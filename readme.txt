@@ -1,7 +1,7 @@
 === Dashicons + Custom Post Types ===
 Contributors: halgatewood
 Donate link: https://halgatewood.com/donate/
-Tags: dash icons, icons, wordpress menu, menu, admin menu
+Tags: dash icons, icons, wordpress menu, menu, admin menu, dashicons, icon, admin
 Requires at least: 3.8
 Tested up to: 4.1
 Stable tag: trunk
