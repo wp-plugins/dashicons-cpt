@@ -17,7 +17,6 @@ The Dashicons + Custom Post Types plugin allows you to keep the WordPress admin 
 https://www.youtube.com/watch?v=3M6-mU9Ai0M
 
 
-
 == Installation ==
 
 Do whatever it takes to get the plugin on your site. But most likely you’ve already done so.
