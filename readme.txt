@@ -1,7 +1,7 @@
 === Dashicons + Custom Post Types ===
 Contributors: halgatewood
 Donate link: https://halgatewood.com/donate/
-Tags: dash icons, icons, wordpress menu, menu, admin menu, dashicons, icon, admin
+Tags: dash icons, icons, wordpress menu, menu, admin menu
 Requires at least: 3.8
 Tested up to: 4.2
 Stable tag: trunk
@@ -15,6 +15,7 @@ Easily change the admin menu icons for custom post types.
 The Dashicons + Custom Post Types plugin allows you to keep the WordPress admin menu as clean as possible. When your building new custom post types for your clients your default icon in the admin menu is the pin. This is no fun. With my plugin you can easily and quickly change all the custom post type icons to match the rest of the icons in the menu.
 
 https://www.youtube.com/watch?v=3M6-mU9Ai0M
+
 
 
 == Installation ==
@@ -31,6 +32,9 @@ https://www.youtube.com/watch?v=3M6-mU9Ai0M
 3. Finished outcome in the admin menu
 
 == Changelog ==
+
+= 1.0.2 =
+* Updated icon set
 
 = 1.0.1 =
 * Allowed you to remove a selection

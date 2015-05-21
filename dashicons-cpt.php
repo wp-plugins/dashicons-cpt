@@ -5,7 +5,7 @@ Plugin URI: http://halgatewood.com/dashicons-cpt
 Description: Easily select which dashicons you want to use with your custom post types.
 Author: Hal Gatewood
 Author URI: http://www.halgatewood.com
-Version: 1.0.1
+Version: 1.0.2
 
 	FILTERS:
 		dashicons_cpt_types: Allows you to change what types of post types to show
